@@ -1,0 +1,7 @@
+ext {
+    version_yonyouintegration = '0.1.2'
+
+    libraries = [
+            yonyouintegration: "com.yonyou.integration:yonyouintegration:${version_yonyouintegration}"
+    ]
+}

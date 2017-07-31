@@ -1,0 +1,18 @@
+ext {
+
+    COMPILE_SDK_VERSION = 25
+    BUILD_TOOLS_VERSION = "25.0.3"
+
+    MIN_SDK_VERSION = 19
+    TARGET_SDK_VERSION = 25
+    VERSION_CODE = 1
+    VERSION_NAME = "1.0"
+
+    APP_ID = "com.yonyou.h5packing"
+    APP_NAME = "H5封装基础包"
+    HTTP_URL = "\"http://www.baidu.com/\""
+
+
+
+
+}
